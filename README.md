@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xaybarner
+- 👀 I’m interested in cybersecurity, gaming hardware, gaming, python/coding
+- 🌱 I’m currently learning how to build a weather app with pyhton on pycharm
+- 💞️ I’m looking to collaborate on anything that will help me learn
+- 📫 How to reach me xaybarner@gmail.com or @xaylen.b instagram
